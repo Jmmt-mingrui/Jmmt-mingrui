@@ -10,7 +10,7 @@
 
 ---
 
-### 👨‍💻 About Me (关于我)
+### 👨‍💻 About Me 
 
 - 🌱 目前正在积极参与开源社区贡献，热爱底层技术与系统架构。
 - 🔭 目前专注于 **Cloud Native** 与 **AI Native** 领域。
@@ -20,7 +20,7 @@
 
 ---
 
-### 🛠️ Tech Stack (技术栈)
+### 🛠️ Tech Stack 
 
 <p align="center">
   <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
@@ -38,32 +38,9 @@
 
 ---
 
-### 🐍 Contribution Snake (贪吃蛇)
+### 🐍 Contribution Snake 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jmmt-mingrui/Jmmt-mingrui/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
----
-
-### 📊 GitHub Stats (开源数据)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jmmt-mingrui&show_icons=true&theme=default&rank_icon=github&border_radius=10" alt="Jmmt-mingrui's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmmt-mingrui&layout=compact&theme=default&border_radius=10" alt="Top Languages" width="48%" />
-</p>
-
----
-
-### 📈 Activity Pulse (近期活跃走势)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jmmt-mingrui&theme=default&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
----
-<p align="center">
-  <i>Let's build something awesome together! 🚀</i>
-</p>
-
 
