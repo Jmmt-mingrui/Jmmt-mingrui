@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mingrui+Li+👋;A+Passionate+Go+Backend+Developer;Cloud+Native+%26+Microservices+Enthusiast;Math+Major+%40+NEFU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jmmt+👋;A+Passionate+Go+Backend+Developer;Cloud+Native+%26+Microservices+Enthusiast;Math+Major+%40+NEFU" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 GitHub Stats (开源数据)
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jmmt-mingrui&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Jmmt-mingrui's GitHub Stats" width="48%" />
@@ -52,4 +52,11 @@
 ---
 <p align="center">
   <i>Let's build something awesome together! 🚀</i>
+</p>
+
+
+### 🐍 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jmmt-mingrui/Jmmt-mingrui/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
