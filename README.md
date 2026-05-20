@@ -1,20 +1,21 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jmmt+👋;A+Passionate+Go+Backend+Developer;Cloud+Native+%26+Microservices+Enthusiast;Math+Major+%40+NEFU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mingrui+Li+👋;A+Passionate+Go+Backend+Developer;Cloud+Native+%26+Microservices+Enthusiast;Math+Major+%40+NEFU" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Jmmt-mingrui">
-    <img src="https://komarev.com/ghpvc/?username=Jmmt-mingrui&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Jmmt-mingrui&color=00ADD8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me 
+### 👨‍💻 About Me (关于我)
 
 - 🌱 目前正在积极参与开源社区贡献，热爱底层技术与系统架构。
 - 🔭 目前专注于 **Cloud Native** 与 **AI Native** 领域。
 - 🚀 正在深入研究分布式缓存 (L-Cache)、微服务网关以及 K8s 容器化编排。
+- 📫 欢迎联系我进行技术交流: **1739463979@qq.com**
 - 📫 欢迎联系我进行技术交流: **1739463979@qq.com**
 
 ---
@@ -37,15 +38,27 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Contribution Snake (贪吃蛇)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jmmt-mingrui&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Jmmt-mingrui's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmmt-mingrui&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="48%" />
+  <img src="https://raw.githubusercontent.com/Jmmt-mingrui/Jmmt-mingrui/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+---
+
+### 📊 GitHub Stats (开源数据)
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jmmt-mingrui&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jmmt-mingrui&show_icons=true&theme=default&rank_icon=github&border_radius=10" alt="Jmmt-mingrui's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmmt-mingrui&layout=compact&theme=default&border_radius=10" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 📈 Activity Pulse (近期活跃走势)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jmmt-mingrui&theme=default&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -54,22 +67,3 @@
 </p>
 
 
-### 🏆 GitHub Achievements (我的成就)
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jmmt-mingrui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Jmmt-mingrui's Trophies" />
-  </a>
-</p>
-
-### 📈 Activity Pulse (近期活跃走势)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jmmt-mingrui&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
-### 💡 Geek Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Geek Quote" />
-</p>
