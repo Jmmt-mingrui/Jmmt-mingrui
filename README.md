@@ -12,10 +12,9 @@
 
 ### 👨‍💻 About Me 
 
-- 🌱 热爱底层技术与系统架构。
+- 🌱 目前正在积极参与开源社区贡献，热爱底层技术与系统架构。
 - 🔭 目前专注于 **Cloud Native** 与 **AI Native** 领域。
 - 🚀 正在深入研究分布式缓存 (L-Cache)、微服务网关以及 K8s 容器化编排。
-- 🤝 目前正在积极参与开源社区贡献 (Currently contributing to Open Source).
 - 📫 欢迎联系我进行技术交流: **1739463979@qq.com**
 
 ---
@@ -55,8 +54,22 @@
 </p>
 
 
-### 🐍 
+### 🏆 GitHub Achievements (我的成就)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jmmt-mingrui/Jmmt-mingrui/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Jmmt-mingrui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Jmmt-mingrui's Trophies" />
+  </a>
+</p>
+
+### 📈 Activity Pulse (近期活跃走势)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jmmt-mingrui&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+### 💡 Geek Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Geek Quote" />
 </p>
